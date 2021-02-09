@@ -23,3 +23,20 @@ header {
 .logo.text {
     font-size: 40px;
 }
+
+/* MAIN */
+.button {
+    display: inline-block;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.blue {
+    color: white;
+    background-color: #47adf1;
+}
+
+.grey {
+    color: #dbe0e2;
+    border: 1px solid;
+}
